@@ -4,7 +4,7 @@ const Search = (props) => {
   return (
     <div className="header">
       <div className="head">
-        <h1>Movie Maven</h1>
+        <h1>Movies</h1>
       </div>
       <input
         type="suggestions"
