@@ -1,1 +1,1 @@
-demo: https://moviemaven.netlify.app
+demo: https://israelmovies.netlify.app
